@@ -7,7 +7,7 @@ Welcome to my first CS e-portfolio
 - My CAS: [Click](https://keycas.cn)
 <img src="https://www.newbeemc.online/static/upload/image/20230810/1691602469276114.png" alt="NewbeeMC">
 
-- My Server: [Click](https://newbeemc.online)
+- My Server: [Click](https://www.newbeemc.online)
 
 
 
